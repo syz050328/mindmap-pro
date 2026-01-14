@@ -1,3 +1,7 @@
 {
-  "assets": "dist"
+  "version": "1.0",
+  "name": "mindmap-pro",
+  "build": {
+    "output": "dist"
+  }
 }
