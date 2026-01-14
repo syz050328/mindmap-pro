@@ -113,4 +113,5 @@ MindMap Pro 深度探索了阿里云ESA的边缘计算能力：
 ### 导出功能
 - ✅ 导出为PNG图片
 - ✅ 导出为PDF文档
-
+本项目由阿里云ESA提供加速、计算和保护
+<img width="7534" height="844" alt="image" src="https://github.com/user-attachments/assets/b3bf2621-e7d8-4681-8bdc-4f6c5d9fc805" />
