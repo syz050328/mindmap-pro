@@ -1,0 +1,26 @@
+name = "mindmap-pro-api"
+main = "api.js"
+compatibility_date = "2024-01-01"
+
+[env.production]
+vars = { ENVIRONMENT = "production" }
+
+[[env.production.kv_namespaces]]
+binding = "MINDMAPS"
+id = "your-mindmaps-kv-id"
+preview_id = "your-mindmaps-preview-id"
+
+[[env.production.kv_namespaces]]
+binding = "ROOMS"
+id = "your-rooms-kv-id"
+preview_id = "your-rooms-preview-id"
+
+[[env.production.kv_namespaces]]
+binding = "TEMPLATES"
+id = "your-templates-kv-id"
+preview_id = "your-templates-preview-id"
+
+[[env.production.kv_namespaces]]
+binding = "CACHE"
+id = "your-cache-kv-id"
+preview_id = "your-cache-preview-id"
